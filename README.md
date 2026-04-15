@@ -42,3 +42,7 @@ df.copy() 👉 데이터를 “복사해서 새로 만드는 것”
 cp949 윈도우에서 많이 쓰던 한글인코딩 방식
 index_col=0 첫번쨰 열을 인덱스로 쓰겠다
 thousands=pop 숫자에서 천 단위 구분기호
+
+
+<img width="466" height="174" alt="image" src="https://github.com/user-attachments/assets/24f5d3da-642d-4fb9-973d-a4eaf92a0899" />
+
