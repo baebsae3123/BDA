@@ -7,10 +7,15 @@
 
 ## 라이브러리
 numpy 👉 숫자 계산용  라이브러리 배열(Array) 기반
+
 matplotlib 👉 그래프 그리는 기본 라이브러리 가장 기본적인 시각화 도구
+
 matplotlib.pyplpot 👉 matplotlib 안에 있는 그래프 전용 기능
+
 seaborn 👉 더 예쁘고 쉽게 그래프 그리는 라이브러리
+
 pandas 👉 데이터 분석용 (엑셀 느낌) 표 형태 데이터 처리
+
 datetime 👉 날짜 출력
 
 ## 그림을선명하게 하는것
@@ -26,10 +31,15 @@ plt.show()
 
 ## pandas
 pop = pd.read_csv(("popmonth csv" encoding=encoding='cp949 index_col=0 thousands=pop)👉 데이터를 읽어오는 기능
+
 pop.columns = ['총인구수','세대수','세대당인구','남자인구수','여자인구수','남여비율'] 👉열이름을 새로 정하는거
+
 pop.head() 👉 데이터프레임의 상위 5개 행을 보여줌
+
 pop.index 👉행이름을 새로 정하는거
+
 pop.index[i].split()[0] 👉 나눠서 리스트 형태로 만들어주는거
+
 df.copy() 👉 데이터를 “복사해서 새로 만드는 것”
 
 ## seaborn
