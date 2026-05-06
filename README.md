@@ -56,3 +56,10 @@ thousands=pop 숫자에서 천 단위 구분기호
 
 <img width="466" height="174" alt="image" src="https://github.com/user-attachments/assets/24f5d3da-642d-4fb9-973d-a4eaf92a0899" />
 
+
+
+# 10주차 - 9장 49페이지
+
+<img width="784" height="433" alt="image" src="https://github.com/user-attachments/assets/51d724d7-7ba9-4ac7-91a2-bc2e55d989fd" />
+
+COL= 부분 시험 나온다함
