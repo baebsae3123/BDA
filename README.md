@@ -56,7 +56,7 @@ thousands=pop 숫자에서 천 단위 구분기호
 
 <img width="466" height="174" alt="image" src="https://github.com/user-attachments/assets/24f5d3da-642d-4fb9-973d-a4eaf92a0899" />
 
-
+# 기말고사
 
 # 10주차 - 9장 49페이지
 
