@@ -63,3 +63,7 @@ thousands=pop 숫자에서 천 단위 구분기호
 <img width="784" height="433" alt="image" src="https://github.com/user-attachments/assets/51d724d7-7ba9-4ac7-91a2-bc2e55d989fd" />
 
 COL= 부분 시험 나온다함
+
+나온다 언급함 
+<img width="770" height="254" alt="image" src="https://github.com/user-attachments/assets/8f036044-3511-4708-80b6-179b87fdcca8" />
+
