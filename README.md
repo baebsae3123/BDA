@@ -1,4 +1,4 @@
-#빅데이터분석프로그래밍
+<img width="901" height="562" alt="image" src="https://github.com/user-attachments/assets/80b18bec-0b0e-4e9a-a5d2-eb779a6c6a8d" />#빅데이터분석프로그래밍
 
 1일차 패키지 사용 matplotlib , seaborn 
 
@@ -67,3 +67,5 @@ COL= 부분 시험 나온다함
 나온다 언급함 
 <img width="770" height="254" alt="image" src="https://github.com/user-attachments/assets/8f036044-3511-4708-80b6-179b87fdcca8" />
 
+언급2 
+<img width="901" height="562" alt="image" src="https://github.com/user-attachments/assets/b47c2fed-d4ac-4800-b260-3c144b605223" />
