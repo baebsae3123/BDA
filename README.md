@@ -69,3 +69,5 @@ COL= 부분 시험 나온다함
 
 언급2 
 <img width="901" height="562" alt="image" src="https://github.com/user-attachments/assets/b47c2fed-d4ac-4800-b260-3c144b605223" />
+언급 3
+<img width="804" height="279" alt="image" src="https://github.com/user-attachments/assets/ccc21e50-a181-4b64-b97e-b37e7231fa9d" />
