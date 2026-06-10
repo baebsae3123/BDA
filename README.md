@@ -4,7 +4,7 @@
 
 10주차 ~14주차 ipynb
 
-12주차 안배운게 많이 잇음
+★ 12주차 안배운게 많이 잇음
 
 강환수 GITHUB https://github.com/ai7dnn/2026-1-BDA/blob/main/code/14w_ch07_missingvalue_outlier.ipynb
 
