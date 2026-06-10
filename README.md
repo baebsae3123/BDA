@@ -58,6 +58,16 @@ thousands=pop 숫자에서 천 단위 구분기호
 
 # 기말고사
 
+| 문제 유형  | 개수      | 1문항당 | 총점       |
+| ------ | ------- | ---- | -------- |
+| OX     | 2개      | 5점   | 10점      |
+| 빈칸채우기  | 3개      | 5점   | 15점      |
+| 찍어맞추기  | 3개      | 5점   | 15점      |
+| 코딩 문제  | 3x4개     | 16점   | 48점      |
+| 추가 빈칸  | 2개      | 6점   | 12점      |
+| **합계** | **22개** |      | **100점** |
+
+
 # 10주차 - 9장 49페이지
 
 <img width="784" height="433" alt="image" src="https://github.com/user-attachments/assets/51d724d7-7ba9-4ac7-91a2-bc2e55d989fd" />
@@ -71,3 +81,4 @@ COL= 부분 시험 나온다함
 <img width="901" height="562" alt="image" src="https://github.com/user-attachments/assets/b47c2fed-d4ac-4800-b260-3c144b605223" />
 언급 3
 <img width="804" height="279" alt="image" src="https://github.com/user-attachments/assets/ccc21e50-a181-4b64-b97e-b37e7231fa9d" />
+
