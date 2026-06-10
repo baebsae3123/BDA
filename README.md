@@ -1,3 +1,17 @@
+# 기말고사
+
+강환수 GITHUB https://github.com/ai7dnn/2026-1-BDA/blob/main/code/14w_ch07_missingvalue_outlier.ipynb
+
+| 문제 유형  | 개수      | 1문항당 | 총점       |
+| ------ | ------- | ---- | -------- |
+| OX     | 2개      | 5점   | 10점      |
+| 빈칸채우기  | 3개      | 5점   | 15점      |
+| 찍어맞추기  | 3개      | 5점   | 15점      |
+| 코딩 문제  | 12개     | 4점   | 48점      |
+| 추가 빈칸  | 2개      | 6점   | 12점      |
+| **합계** | **22개** |      | **100점** |
+
+
 <img width="901" height="562" alt="image" src="https://github.com/user-attachments/assets/80b18bec-0b0e-4e9a-a5d2-eb779a6c6a8d" />#빅데이터분석프로그래밍
 
 1일차 패키지 사용 matplotlib , seaborn 
